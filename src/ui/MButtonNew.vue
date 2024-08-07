@@ -1,5 +1,5 @@
 <script setup>
-import { Button } from "primevue/button";
+import { Button } from 'primevue/button';
 </script>
 <template>
   <div class="card flex flex-col items-center gap-4">
